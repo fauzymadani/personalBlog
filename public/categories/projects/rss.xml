@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Orhun&#x27;s Blog - Projects</title>
+      <link>http://localhost</link>
+      <description>FOSS • Linux • Programming</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="http://localhost/categories/projects/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Setting up a packaging environment for Alpine Linux (introducing alpkg)</title>
+          <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>http://localhost/firstblog/</link>
+          <guid>http://localhost/firstblog/</guid>
+          <description xml:base="http://localhost/firstblog/">&lt;p&gt;Recently I have been interested in &lt;a href=&quot;https:&#x2F;&#x2F;www.alpinelinux.org&quot;&gt;Alpine Linux&lt;&#x2F;a&gt; and thought it would be nice to maintain some Rust packages in their repositories. In this post, I will share my notes&#x2F;adventures on setting up a packaging environment and a tool called &quot;&lt;strong&gt;alpkg&lt;&#x2F;strong&gt;&quot; for automating this process.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
